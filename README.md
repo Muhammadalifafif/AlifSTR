@@ -7,4 +7,4 @@ pkg install git
 pip install requests
 pip install colorama
 wget https://raw.githubusercontent.com/Muhammadalifafif/AlifSTR/refs/heads/main/Alif.py
-python Alif.py
+python AlifNew.py
